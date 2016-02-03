@@ -11,6 +11,7 @@ namespace consoleApp
 		static void Main(string[] args)
 		{
 			Console.WriteLine("This is a test console app.");
+			Console.WriteLine("This is the 1st edit.");
 			Console.ReadKey();
 		}
 	}
